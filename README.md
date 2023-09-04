@@ -1,2 +1,2 @@
 # odin-recipes
-This is a simple website made of simple HTML elements.
+This is a simple recipes website made of simple HTML elements.
